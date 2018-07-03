@@ -1,1 +1,1 @@
-# Digit-Recognizer on kaggle
+# Digit-Recognizer Competition on kaggle
